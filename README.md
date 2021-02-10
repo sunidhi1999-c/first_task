@@ -1,6 +1,6 @@
 # first_task
 
-###About The Project
+### About The Project
 
 This project is a poll collecting webiste collecting the Name , Cating choice , time and storing it in database.
 
@@ -12,11 +12,11 @@ This section should list any major frameworks that you built your project using.
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
 
-# Getting Started
+### Getting Started
 
 Please follow the following steps to run this project:
 
-###Prerequisites
+### Prerequisites
 
 Please make sure to have following softwares installed:
 * npm
@@ -42,21 +42,17 @@ Please make sure to have following softwares installed:
     ```JS
    E:/YOUR_FILENAME/:  npm start
    ```
-# Roadmap
+### Roadmap
 
 See the open issues for a list of proposed features (and known issues).
 
-###Contact
+### Contact
 
 
 Rahul Sharma - sharmarahul1729@gmail.com
 
 Project Link: [https://github.com/Rahulsharma468/first_task](https://github.com/Rahulsharma468/first_task)
 
-
- 
-
-Project Link: 
 
 # Acknowledgements
 * [GitHub Pages](https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
